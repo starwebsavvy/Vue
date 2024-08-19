@@ -7,4 +7,4 @@ import './themes/2024-light/theme.scss';
 // TODO/sk: Purge it - using postcss-purgecss
 import 'primeflex/primeflex.css';
 
-export { OdkWebForm, webFormsPlugin };
+// export { OdkWebForm, webFormsPlugin };
